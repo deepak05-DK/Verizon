@@ -4,4 +4,4 @@ age=input("enter you age")
 if(name!=null and age>=18)
       printnl("welcome"+name);
  else
-      println("Bad request,Please try again");
+      println("Bad request,");
